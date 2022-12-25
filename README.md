@@ -2,6 +2,7 @@
 An exercise to apply javascript to real world mathematical concepts by analyzing the financial records of a company.
 
 # Preview of Dataset
+```javascript
     var finances = [
     ['Jan-2010', 867884],
     ['Feb-2010', 984655],
@@ -14,6 +15,7 @@ An exercise to apply javascript to real world mathematical concepts by analyzing
     ['Sep-2010', -216386],
     ['Oct-2010', 477532],
     ....
+```
 
 # Requirements
 JavaScript code that analyzes the records to calculate each of the following:
