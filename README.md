@@ -35,7 +35,7 @@ JavaScript code that analyzes the records to calculate each of the following:
 # Results
 When the program is run using the provided dataset, it'll return the following in the console log:
 
-```javascript
+```text
 Financial Analysis
 ----------------------------
 Total Months: 86
@@ -57,7 +57,7 @@ console.log("Change Value: $"+currentChangeValue);
 ```
 
 The above code will output:
-```javascript
+```text
 ---------------------1---------------------
 Current Month is: Jan-2010
 Previous Month Value is: $0
